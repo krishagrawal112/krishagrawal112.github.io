@@ -12,7 +12,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: 
 
-profile:
+profile2:
   align: right
   image: arm.png
   image_circular: true # crops the image to make it circular
