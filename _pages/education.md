@@ -10,18 +10,19 @@ nav_order: 1
 ### ETH Zurich (2023 - 2024)
 
 ##### *MSc Electrical Engineering and Information Technology (Exchange student from Imperial)*  
-
+<br/><br/>
 ##### Exchange Year (Year 4) (To be completed)
 - Advanced Machine Learning
 - Deep Learning
 - Neural Network Theory
 - VLSI1: HDL Based Design for FPGAs  
   
-
+<br/><br/>
+<br/><br/>
 ### Imperial College London (2020 - 2023)
 
 ##### *MEng Electronic and Information Engineering*  
-
+<br/><br/>
 ##### Year 1 (Dean's List for Academic Excellence - Top 10% of cohort)
 - Programming for Engineers
 - Mathematics for Engineers 1 (Calculus I-III, Linear Algebra I)
