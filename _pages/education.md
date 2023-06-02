@@ -7,12 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-<p style="text-align:left; font-size:40px;">
-    ETH Zurich 
-    <span style="float:right; font-size:32px;">
-        Sep 2023 - Jul 2024
-    </span>
-</p>
+### ETH Zurich (2023 - 2024)
 
 #### *MSc Electrical Engineering and Information Technology (Exchange student from Imperial)*
 
@@ -22,12 +17,8 @@ nav_order: 1
 - Neural Network Theory
 - VLSI1: HDL Based Design for FPGAs
 
-<p style="text-align:left; font-size:40px;">
-    Imperial College London
-    <span style="float:right; font-size:32px;">
-        Oct 2020 - Sep 2023
-    </span>
-</p>
+
+### Imperial College London (2020 - 2023)
 
 #### *MEng Electronic and Information Engineering*
 
