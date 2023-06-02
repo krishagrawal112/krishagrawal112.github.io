@@ -11,7 +11,7 @@ nav_order: 1
 
 #### *MSc Electrical Engineering and Information Technology (Exchange student from Imperial)*  
 
-##### Exchange Year (Year 4) (To begin)
+##### Exchange Year (Year 4) (To be completed)
 - Advanced Machine Learning
 - Deep Learning
 - Neural Network Theory
