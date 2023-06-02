@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Circuit Simulator
+title: Analog Circuit Simulator
 description: 
 img: assets/img/7.jpg
 redirect: https://unsplash.com
