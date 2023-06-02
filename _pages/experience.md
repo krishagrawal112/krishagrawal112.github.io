@@ -17,13 +17,13 @@ social: false  # includes social icons at the bottom of the page
 
 #### Circuits and Systems, Imperial College London (Mar 2023 - Sep 2023)
 
-#### *Undergraduate Researcher*
+##### *Undergraduate Researcher*
 
 
 
 
-<p style="text-align: center"><img src="../assets/img/arm-resize.png"></p>
+<p style="text-align: center"><img src="../assets/img/arm-resize.jpg"></p>
 
 #### Arm Ltd. (Jul 2022 - Sep 2022)
 
-#### *Hardware Engineering Intern*
+##### *Hardware Engineering Intern*
