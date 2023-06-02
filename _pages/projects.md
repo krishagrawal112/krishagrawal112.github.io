@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /Projects/
-description: Selected Projects.
+description: Selected Projects
 nav: true
 nav_order: 3
 display_categories: [Machine Learning, Digital Hardware, Software]
