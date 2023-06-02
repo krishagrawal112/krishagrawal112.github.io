@@ -7,6 +7,20 @@ nav: true
 nav_order: 4
 ---
 
-Languages
+## Languages
+- Python
+  - PyTorch
+  - Numpy, Pandas, Matplotlib
+- C++
+- Verilog/SystemVerilog
+- Chisel (HDL in Scala)
+- Javascript
 
-Technologies
+
+## Technologies
+- Git
+- Weights and Biases
+- AWS (DynamoDB)
+- Quartus Prime
+- ModelSim
+- GTKWave
