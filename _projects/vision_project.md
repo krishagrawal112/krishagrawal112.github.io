@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Object Detection on FPGA for Autonomous Rover
+description: a project with a background image
+img: assets/img/1.jpg
 importance: 3
-category: fun
+category: Digital Hardware
 ---
 
 Every project has a beautiful feature showcase page.

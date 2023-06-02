@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Signal Processing for Synthesiser 
-description: a project with a background image
-img: assets/img/12.jpg
+title: California House Price Regression - Fully connected NN
+description: 
+img:
 importance: 3
-category: Software
+category: Machine Learning
 ---
 
 Every project has a beautiful feature showcase page.

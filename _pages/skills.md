@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## Languages
+### Programming Languages
 - Python
   - PyTorch
   - Numpy, Pandas, Matplotlib
@@ -17,10 +17,14 @@ nav_order: 4
 - Javascript
 
 
-## Technologies
+### Technologies
 - Git
 - Weights and Biases
 - AWS (DynamoDB)
 - Quartus Prime
 - ModelSim
 - GTKWave
+
+### Verbal Languages
+- English: Fluent
+- Hindi: Fluent

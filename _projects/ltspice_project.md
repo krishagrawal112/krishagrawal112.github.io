@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Signal Processing for Synthesiser 
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 3
+title: Circuit Simulator
+description: 
+img: assets/img/7.jpg
+redirect: https://unsplash.com
+importance: 2
 category: Software
 ---
 

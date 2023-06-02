@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Signal Processing for Synthesiser 
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 3
-category: Software
+title: MIPS CPU
+description: 
+img:
+importance: 2
+category: Digital Hardware
 ---
 
 Every project has a beautiful feature showcase page.
