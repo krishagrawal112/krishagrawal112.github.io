@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 permalink: /experience/
 title: Experience
 description: Industry and Research Experience
