@@ -1,22 +1,10 @@
 ---
-layout: about
+layout: page
 permalink: /experience/
 title: Experience
 description: Industry and Research Experience
 nav: true
 nav_order: 2
-
-profile:
-  align: right
-  image: CAS.jpg
-  image_circular: true # crops the image to make it circular
-  address: 
-
-profile2:
-  align: right
-  image: arm.png
-  image_circular: true # crops the image to make it circular
-  address: 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -25,3 +13,15 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
+![](../assets/img/CAS.jpg)
+### Circuits and Systems, Imperial College London (Mar 2023 - Sep 2023)
+
+#### *Undergraduate Researcher*
+
+
+
+
+![](../assets/img/arm.png)
+### Arm Ltd. (Jul 2022 - Sep 2022)
+
+#### *Hardware Engineering Intern*
