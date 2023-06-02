@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /interests/
-title: interests
-description: This should change
+title: Interests
+description:
 nav: true
 nav_order: 5
 ---

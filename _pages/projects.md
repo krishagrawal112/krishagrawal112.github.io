@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Projects
+permalink: /Projects/
+description: Selected Projects.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [Machine Learning, Digital Hardware, Software]
 horizontal: false
 ---
