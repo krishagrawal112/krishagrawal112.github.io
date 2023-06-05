@@ -23,7 +23,6 @@ nav_order: 4
 - AWS (DynamoDB)
 - Quartus Prime
 - ModelSim
-- GTKWave
 
 ### Verbal Languages
 - English: Fluent
