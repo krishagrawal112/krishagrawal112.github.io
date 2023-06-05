@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Medical Image Segmentation - UNet
-description: "Coursework for 3rd year module COMP60006: Computer Vision"
+description: Coursework for 3rd year module COMP60006-Computer Vision
 img: assets/img/unet.jpg
 importance: 1
 category: Machine Learning
