@@ -2,12 +2,12 @@
 layout: page
 title: Medical Image Segmentation - UNet
 description: Coursework for 3rd year module COMP60006-Computer Vision
-img: assets/img/unet.jpg
+img: assets/img/unet.png
 importance: 1
 category: Machine Learning
 ---
 
-A U-net model was created in PyTorch for with the appropriate encoder and decoder paths. The model was trained and tested on a brain tumour detection dataset. The project involved visualising the dataset, implementing a class and member functions to load data for training/testing, building the U-net architecture and deploying it on the test set.
+A U-net model was created in PyTorch with the appropriate encoder and decoder paths. The model was trained and tested on a brain tumour detection dataset. The project involved visualising the dataset, implementing a class and member functions to load data for training/testing, building the U-net architecture and deploying it on the test set.
 
 
 <div class="row">

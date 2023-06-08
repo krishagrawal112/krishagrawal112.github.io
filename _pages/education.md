@@ -7,6 +7,7 @@ nav: true
 nav_order: 1
 ---
 
+![](assets\img\eth.png)
 ### ETH Zurich (2023 - 2024)
 
 ##### *MSc Electrical Engineering and Information Technology (Exchange Student)*  
@@ -19,6 +20,7 @@ nav_order: 1
   
 <br/><br/>
 
+![](assets\img\imperial.png)
 ### Imperial College London (2020 - 2023)
 
 ##### *MEng Electronic and Information Engineering*  
