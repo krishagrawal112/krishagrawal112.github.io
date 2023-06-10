@@ -24,6 +24,8 @@ social: false  # includes social icons at the bottom of the page
   - **Dynamic Scheduling**: Exploring new ways to dynamically skip zero-input Multiply-Accumulate operations in hardware (Chisel) to speed up computation.
   - **Hardware modelling**: Extending and improving the performance and resource modelling of the tool for more optimal hardware designs.
 
+<br/><br/>
+
 <p style="text-align: center"><img src="../assets/img/arm-resize.jpg"></p>
 
 #### Arm Ltd. (Jul 2022 - Sep 2022)

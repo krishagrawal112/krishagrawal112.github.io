@@ -2,7 +2,7 @@
 layout: page
 title: Signal Processing for Synthesiser 
 description: 1st coursework for 3rd year module ELEC60013 - Embedded Systems
-img: assets/img/synth.png"
+img: assets/img/synth.png
 importance: 3
 category: Software
 ---
