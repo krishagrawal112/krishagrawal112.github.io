@@ -2,7 +2,7 @@
 layout: page
 title: Website and Signal Processing for Workout Assistant
 description: 1st coursework for 3rd year module ELEC60013 - Embedded Systems
-img: assets/img/3.jpg
+img: assets/img/gymbro.jpg
 importance: 1
 category: Software
 ---
