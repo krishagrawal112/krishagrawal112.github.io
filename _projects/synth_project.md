@@ -2,7 +2,7 @@
 layout: page
 title: Signal Processing for Synthesiser 
 description: 1st coursework for 3rd year module ELEC60013 - Embedded Systems
-img: assets/img/synth.jpg"
+img: assets/img/synth.png"
 importance: 3
 category: Software
 ---
@@ -13,10 +13,10 @@ My contribution was in the signal processing/generation part where I implemented
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/synth.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/synth.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/adsr.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/adsr.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

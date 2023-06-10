@@ -9,7 +9,7 @@ category: Software
 
 We created a workout assistant device, called GymBro that you strap onto your exercise equipment. The workout assistant is accompanied by an app. Together, they count and keep track your weight, sets and reps on exercises as well as have a rest timer which detects when a set has been completed and then alerts you when it is time for the next set.
 
-The project was done in a group, I worked on the website and signal processing part of the project.
+The project was done in a group, I worked on the website (HTML, CSS, Javascript) and the signal processing part (Python) of the project.
 
 
 <div class="row">
