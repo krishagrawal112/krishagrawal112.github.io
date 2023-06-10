@@ -2,7 +2,7 @@
 layout: page
 title: Website and Signal Processing for Workout Assistant
 description: 1st coursework for 3rd year module ELEC60013 - Embedded Systems
-img: assets/img/gymbro.jpg
+img: assets/img/gymbro.png
 importance: 1
 category: Software
 ---
@@ -14,7 +14,7 @@ The project was done in a group, I worked on the website and signal processing p
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gymbro.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/gymbro.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
