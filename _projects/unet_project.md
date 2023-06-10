@@ -15,8 +15,6 @@ A U-net model was created in PyTorch with the appropriate encoder and decoder pa
         {% include figure.html path="assets/img/unet.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+
 
 The respository with the code can be found [here](https://github.com/krishagrawal112/UNet-BrainTumour-Detection).
